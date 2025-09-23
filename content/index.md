@@ -3,16 +3,26 @@ title: Navigation Page
 date: 2025-02-17
 ---
 
-# 欢迎来到 xzqbear 的主页
+# Welcome to Zequan Xiong's Pages!
 
-## Brief Intro
+## Brief Introduction
+
+### Simple Info
 
 <img src="https://raw.githubusercontent.com/xiong-ZH-zq/My-PicGO-Img/main/profile.png" alt="profile" height="200px">
 
-我是 NKU 的一名数学系大类学生，目前正处于大三阶段，专业分流意向为信息与计算科学，以下是我的联系方式：
+Hello, there! I'm currently studying in the School of Mathematical Sciences in Nankai University. 
 
-- NKU 邮箱：`xzqbear@mail.nankai.edu.cn`
-- Github 主页：[xiong-ZH-zq](https://github.com/xiong-ZH-zq)
+I'm interested in High Dimensional Machine Learning, Reinforcement Learning.
+
+- Email：`xzqbear@foxmail.com`
+- Github Profile：[xiong-ZH-zq](https://github.com/xiong-ZH-zq)
+
+### Experience
+
+- (2019.09 - 2022.06) [The High School Attached to Hunan Normal University, HNSDFZ](https://www.hnsdfz.org/index.html), Student.
+- (2022.06 - Present) [Nankai University, NKU](https://www.nankai.edu.cn/main.htm), BSc in Information and Computation Sciences.
+- (Planned) (2026.09 - ) [University of Chinese Academy of Sciences ,UCAS](https://english.ucas.ac.cn/), PhD in Probability and Mathematical Statistics.
 
 ## Navigation
 
